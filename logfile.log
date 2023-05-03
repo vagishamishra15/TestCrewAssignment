@@ -1,0 +1,906 @@
+2023-05-03 15:09:47,881 ************************** Test Execution Started ************************************ 
+2023-05-03 15:09:56,412 Google search test: Test started 
+2023-05-03 15:09:56,413 Facebook login test: Test started 
+2023-05-03 15:10:05,041 Google search test : Test Passed 
+2023-05-03 15:10:10,031 Facebook login test : Test Failed : Login failed : Test failed expected [true] but found [false] 
+2023-05-03 15:10:11,824 Total number of testcases : 2 
+2023-05-03 15:10:11,824 Number of testcases Passed : 1 
+2023-05-03 15:10:11,824 Number of testcases Failed : 1 
+2023-05-03 15:10:11,825 Number of testcases Skipped  : 0 
+2023-05-03 15:10:11,829 Mail sending toggel is set to false 
+2023-05-03 15:10:11,829 Mail sent : false 
+2023-05-03 15:10:11,829 ************************** Test Execution Finished ************************************ 
+2023-05-03 15:32:21,951 ************************** Test Execution Started ************************************ 
+2023-05-03 15:32:24,923 Subscription Page Test: Test started 
+2023-05-03 15:33:01,765 Subscription Page Test : Test Failed : no such element: Unable to locate element: {"method":"css selector","selector":"*[name='country-current']"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53210}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e821780e624130f1f5c7763f9b25a2be
+*** Element info: {Using=name, value=country-current} 
+2023-05-03 15:33:03,179 Total number of testcases : 1 
+2023-05-03 15:33:03,179 Number of testcases Passed : 0 
+2023-05-03 15:33:03,179 Number of testcases Failed : 1 
+2023-05-03 15:33:03,179 Number of testcases Skipped  : 0 
+2023-05-03 15:33:03,181 Mail sending toggel is set to false 
+2023-05-03 15:33:03,181 Mail sent : false 
+2023-05-03 15:33:03,181 ************************** Test Execution Finished ************************************ 
+2023-05-03 15:38:06,529 ************************** Test Execution Started ************************************ 
+2023-05-03 15:38:09,224 Subscription Page Test: Test started 
+2023-05-03 15:38:35,753 Subscription Page Test : Test Failed : no such element: Unable to locate element: {"method":"css selector","selector":"*[name='country-current']"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53489}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: afa94a5602ec333fb7871e1f40b9015b
+*** Element info: {Using=name, value=country-current} 
+2023-05-03 15:38:37,646 Total number of testcases : 1 
+2023-05-03 15:38:37,646 Number of testcases Passed : 0 
+2023-05-03 15:38:37,646 Number of testcases Failed : 1 
+2023-05-03 15:38:37,646 Number of testcases Skipped  : 0 
+2023-05-03 15:38:37,649 Mail sending toggel is set to false 
+2023-05-03 15:38:37,650 Mail sent : false 
+2023-05-03 15:38:37,650 ************************** Test Execution Finished ************************************ 
+2023-05-03 15:39:19,326 ************************** Test Execution Started ************************************ 
+2023-05-03 15:39:21,483 Subscription Page Test: Test started 
+2023-05-03 15:39:55,969 Subscription Page Test : Test Failed : no such element: Unable to locate element: {"method":"css selector","selector":"*[name='country-current']"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53624}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 787ef4e33b36daff69a3e551080f9c2c
+*** Element info: {Using=name, value=country-current} 
+2023-05-03 15:39:57,872 Total number of testcases : 1 
+2023-05-03 15:39:57,872 Number of testcases Passed : 0 
+2023-05-03 15:39:57,872 Number of testcases Failed : 1 
+2023-05-03 15:39:57,872 Number of testcases Skipped  : 0 
+2023-05-03 15:39:57,875 Mail sending toggel is set to false 
+2023-05-03 15:39:57,875 Mail sent : false 
+2023-05-03 15:39:57,875 ************************** Test Execution Finished ************************************ 
+2023-05-03 15:41:45,173 ************************** Test Execution Started ************************************ 
+2023-05-03 15:41:48,156 Subscription Page Test: Test started 
+2023-05-03 15:42:41,397 Subscription Page Test : Test Failed : org.openqa.selenium.remote.RemoteWebElement cannot be cast to java.util.List 
+2023-05-03 15:42:42,661 Total number of testcases : 1 
+2023-05-03 15:42:42,661 Number of testcases Passed : 0 
+2023-05-03 15:42:42,661 Number of testcases Failed : 1 
+2023-05-03 15:42:42,661 Number of testcases Skipped  : 0 
+2023-05-03 15:42:42,663 Mail sending toggel is set to false 
+2023-05-03 15:42:42,663 Mail sent : false 
+2023-05-03 15:42:42,663 ************************** Test Execution Finished ************************************ 
+2023-05-03 15:55:55,805 ************************** Test Execution Started ************************************ 
+2023-05-03 15:55:58,435 Subscription Page Test: Test started 
+2023-05-03 15:58:23,927 Subscription Page Test : Test Passed 
+2023-05-03 15:58:25,230 Total number of testcases : 1 
+2023-05-03 15:58:25,230 Number of testcases Passed : 1 
+2023-05-03 15:58:25,230 Number of testcases Failed : 0 
+2023-05-03 15:58:25,230 Number of testcases Skipped  : 0 
+2023-05-03 15:58:25,233 Mail sending toggel is set to false 
+2023-05-03 15:58:25,233 Mail sent : false 
+2023-05-03 15:58:25,233 ************************** Test Execution Finished ************************************ 
+2023-05-03 16:00:00,422 ************************** Test Execution Started ************************************ 
+2023-05-03 16:00:03,173 Subscription Page Test: Test started 
+2023-05-03 17:21:23,305 ************************** Test Execution Started ************************************ 
+2023-05-03 17:21:26,357 Subscription Page Test: Test started 
+2023-05-03 17:22:14,722 Subscription Page Test : Test Failed : stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55627}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a2eb0df021fb69da38da9552a467a4e4 
+2023-05-03 17:22:16,061 Total number of testcases : 1 
+2023-05-03 17:22:16,061 Number of testcases Passed : 0 
+2023-05-03 17:22:16,061 Number of testcases Failed : 1 
+2023-05-03 17:22:16,061 Number of testcases Skipped  : 0 
+2023-05-03 17:22:16,063 Mail sending toggel is set to false 
+2023-05-03 17:22:16,064 Mail sent : false 
+2023-05-03 17:22:16,064 ************************** Test Execution Finished ************************************ 
+2023-05-03 17:28:03,559 ************************** Test Execution Started ************************************ 
+2023-05-03 17:28:06,872 Subscription Page Test: Test started 
+2023-05-03 17:28:54,143 Subscription Page Test : Test Failed : stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56309}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5f2442fbf3dc10c30577b4d377676227 
+2023-05-03 17:28:55,520 Total number of testcases : 1 
+2023-05-03 17:28:55,520 Number of testcases Passed : 0 
+2023-05-03 17:28:55,520 Number of testcases Failed : 1 
+2023-05-03 17:28:55,520 Number of testcases Skipped  : 0 
+2023-05-03 17:28:55,527 Mail sending toggel is set to false 
+2023-05-03 17:28:55,527 Mail sent : false 
+2023-05-03 17:28:55,527 ************************** Test Execution Finished ************************************ 
+2023-05-03 18:08:53,081 ************************** Test Execution Started ************************************ 
+2023-05-03 18:08:56,356 Subscription Page Test: Test started 
+2023-05-03 18:10:00,003 Subscription Page Test : Test Failed : stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61835}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 719230c480e259edaaa38a64ba49fafe 
+2023-05-03 18:10:02,165 Total number of testcases : 1 
+2023-05-03 18:10:02,166 Number of testcases Passed : 0 
+2023-05-03 18:10:02,166 Number of testcases Failed : 1 
+2023-05-03 18:10:02,166 Number of testcases Skipped  : 0 
+2023-05-03 18:10:02,169 Mail sending toggel is set to false 
+2023-05-03 18:10:02,170 Mail sent : false 
+2023-05-03 18:10:02,170 ************************** Test Execution Finished ************************************ 
+2023-05-03 18:12:54,020 ************************** Test Execution Started ************************************ 
+2023-05-03 18:16:44,690 Subscription Page Test: Test started 
+2023-05-03 18:16:53,705 Subscription Page Test: Test started 
+2023-05-03 18:19:14,739 Subscription Page Test : Test Failed : stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62045}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0b7773a10c7bddbe77cac9b7619c09c4 
+2023-05-03 18:19:17,335 Subscription Page Test : Test Failed : stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62045}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0b7773a10c7bddbe77cac9b7619c09c4 
+2023-05-03 18:19:18,943 Total number of testcases : 1 
+2023-05-03 18:19:18,943 Number of testcases Passed : 0 
+2023-05-03 18:19:18,943 Number of testcases Failed : 1 
+2023-05-03 18:19:18,943 Number of testcases Skipped  : 0 
+2023-05-03 18:19:18,945 Mail sending toggel is set to false 
+2023-05-03 18:19:18,946 Mail sent : false 
+2023-05-03 18:19:18,946 ************************** Test Execution Finished ************************************ 
+2023-05-03 18:38:19,757 ************************** Test Execution Started ************************************ 
+2023-05-03 18:38:23,340 Subscription Page Test: Test started 
+2023-05-03 18:38:23,350 Subscription Page Test: Test started 
+2023-05-03 18:39:12,399 Subscription Page Test : Test Failed : stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62217}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 000f584e570430ee97bb0a18e2af0b0a 
+2023-05-03 18:39:12,527 Subscription Page Test : Test Failed : stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62217}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 000f584e570430ee97bb0a18e2af0b0a 
+2023-05-03 18:39:14,493 Total number of testcases : 1 
+2023-05-03 18:39:14,493 Number of testcases Passed : 0 
+2023-05-03 18:39:14,493 Number of testcases Failed : 1 
+2023-05-03 18:39:14,493 Number of testcases Skipped  : 0 
+2023-05-03 18:39:14,499 Mail sending toggel is set to false 
+2023-05-03 18:39:14,499 Mail sent : false 
+2023-05-03 18:39:14,500 ************************** Test Execution Finished ************************************ 
+2023-05-03 18:53:53,155 ************************** Test Execution Started ************************************ 
+2023-05-03 18:53:55,933 Subscription Page Test: Test started 
+2023-05-03 18:53:55,938 Subscription Page Test: Test started 
+2023-05-03 18:54:45,479 Subscription Page Test : Test Failed : stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62427}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5d45d489ad63a127f27703f80623ae44 
+2023-05-03 18:54:45,593 Subscription Page Test : Test Failed : stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62427}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5d45d489ad63a127f27703f80623ae44 
+2023-05-03 18:54:47,365 Total number of testcases : 1 
+2023-05-03 18:54:47,366 Number of testcases Passed : 0 
+2023-05-03 18:54:47,366 Number of testcases Failed : 1 
+2023-05-03 18:54:47,366 Number of testcases Skipped  : 0 
+2023-05-03 18:54:47,368 Mail sending toggel is set to false 
+2023-05-03 18:54:47,368 Mail sent : false 
+2023-05-03 18:54:47,368 ************************** Test Execution Finished ************************************ 
+2023-05-03 19:46:54,628 ************************** Test Execution Started ************************************ 
+2023-05-03 19:46:57,922 Subscription Page Test: Test started 
+2023-05-03 19:46:57,929 Subscription Page Test: Test started 
+2023-05-03 19:47:46,749 Subscription Page Test : Test Failed : stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54567}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ee582b3112e1d7aa21150269a77890a7 
+2023-05-03 19:47:46,874 Subscription Page Test : Test Failed : stale element reference: element is not attached to the page document
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54567}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ee582b3112e1d7aa21150269a77890a7 
+2023-05-03 19:47:48,240 Total number of testcases : 1 
+2023-05-03 19:47:48,240 Number of testcases Passed : 0 
+2023-05-03 19:47:48,240 Number of testcases Failed : 1 
+2023-05-03 19:47:48,240 Number of testcases Skipped  : 0 
+2023-05-03 19:47:48,242 Mail sending toggel is set to false 
+2023-05-03 19:47:48,242 Mail sent : false 
+2023-05-03 19:47:48,242 ************************** Test Execution Finished ************************************ 
+2023-05-03 19:49:36,412 ************************** Test Execution Started ************************************ 
+2023-05-03 19:49:39,136 Subscription Page Test: Test started 
+2023-05-03 19:49:39,141 Subscription Page Test: Test started 
+2023-05-03 19:50:01,919 Subscription Page Test : Test Failed : LITE expected [Lite] but found [Verify Plan Type Lite] 
+2023-05-03 19:50:02,045 Subscription Page Test : Test Failed : LITE expected [Lite] but found [Verify Plan Type Lite] 
+2023-05-03 19:50:03,319 Total number of testcases : 1 
+2023-05-03 19:50:03,320 Number of testcases Passed : 0 
+2023-05-03 19:50:03,320 Number of testcases Failed : 1 
+2023-05-03 19:50:03,320 Number of testcases Skipped  : 0 
+2023-05-03 19:50:03,321 Mail sending toggel is set to false 
+2023-05-03 19:50:03,321 Mail sent : false 
+2023-05-03 19:50:03,321 ************************** Test Execution Finished ************************************ 
+2023-05-03 20:01:59,771 ************************** Test Execution Started ************************************ 
+2023-05-03 20:02:41,409 Subscription Page Test: Test started 
+2023-05-03 20:02:42,714 Subscription Page Test: Test started 
+2023-05-03 20:03:09,833 Subscription Page Test : Test Failed : LITE expected [Lite] but found [Verify Plan Type Lite] 
+2023-05-03 20:03:20,314 Subscription Page Test : Test Failed : LITE expected [Lite] but found [Verify Plan Type Lite] 
+2023-05-03 20:03:21,029 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypeClassic] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:03:30,581 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypeClassic] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:03:31,590 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypeLite] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:03:32,399 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypeLite] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:03:33,031 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypePremium] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:03:35,855 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypePremium] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:03:36,943 Total number of testcases : 4 
+2023-05-03 20:03:36,943 Number of testcases Passed : 0 
+2023-05-03 20:03:36,943 Number of testcases Failed : 4 
+2023-05-03 20:03:36,943 Number of testcases Skipped  : 0 
+2023-05-03 20:03:36,945 Mail sending toggel is set to false 
+2023-05-03 20:03:36,945 Mail sent : false 
+2023-05-03 20:03:36,945 ************************** Test Execution Finished ************************************ 
+2023-05-03 20:49:25,754 ************************** Test Execution Started ************************************ 
+2023-05-03 20:49:29,613 Subscription Page Test: Test started 
+2023-05-03 20:49:29,617 Subscription Page Test: Test started 
+2023-05-03 20:53:06,863 ************************** Test Execution Started ************************************ 
+2023-05-03 20:53:09,991 Subscription Page Test: Test started 
+2023-05-03 20:53:09,998 Subscription Page Test: Test started 
+2023-05-03 20:54:00,722 ************************** Test Execution Started ************************************ 
+2023-05-03 20:54:03,738 Subscription Page Test: Test started 
+2023-05-03 20:54:03,747 Subscription Page Test: Test started 
+2023-05-03 20:54:27,628 Subscription Page Test : Test Failed : LITE expected [LITE] but found [Verify Plan Type Lite] 
+2023-05-03 20:54:27,772 Subscription Page Test : Test Failed : LITE expected [LITE] but found [Verify Plan Type Lite] 
+2023-05-03 20:54:27,922 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypeClassic] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:54:28,088 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypeClassic] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:54:28,267 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypeLite] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:54:28,481 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypeLite] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:54:28,614 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypePremium] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:54:28,774 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypePremium] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:54:30,705 Total number of testcases : 4 
+2023-05-03 20:54:30,705 Number of testcases Passed : 0 
+2023-05-03 20:54:30,705 Number of testcases Failed : 4 
+2023-05-03 20:54:30,705 Number of testcases Skipped  : 0 
+2023-05-03 20:54:30,709 Mail sending toggel is set to false 
+2023-05-03 20:54:30,709 Mail sent : false 
+2023-05-03 20:54:30,709 ************************** Test Execution Finished ************************************ 
+2023-05-03 20:54:36,909 Subscription Page Test : Test Failed : LITE expected [LITE] but found [Verify Plan Type Lite] 
+2023-05-03 20:54:37,144 Subscription Page Test : Test Failed : LITE expected [LITE] but found [Verify Plan Type Lite] 
+2023-05-03 20:54:37,436 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypeClassic] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:54:37,700 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypeClassic] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:54:37,955 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypeLite] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:54:38,216 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypeLite] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:54:38,481 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypePremium] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:54:38,715 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypePremium] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:54:40,220 Total number of testcases : 4 
+2023-05-03 20:54:40,220 Number of testcases Passed : 0 
+2023-05-03 20:54:40,221 Number of testcases Failed : 4 
+2023-05-03 20:54:40,221 Number of testcases Skipped  : 0 
+2023-05-03 20:54:40,222 Mail sending toggel is set to false 
+2023-05-03 20:54:40,222 Mail sent : false 
+2023-05-03 20:54:40,222 ************************** Test Execution Finished ************************************ 
+2023-05-03 20:55:30,152 ************************** Test Execution Started ************************************ 
+2023-05-03 20:55:33,091 Subscription Page Test: Test started 
+2023-05-03 20:55:33,097 Subscription Page Test: Test started 
+2023-05-03 20:55:58,246 Subscription Page Test : Test Failed : LITE expected [LITE] but found [Verify Plan Type Lite] 
+2023-05-03 20:55:58,393 Subscription Page Test : Test Failed : LITE expected [LITE] but found [Verify Plan Type Lite] 
+2023-05-03 20:55:58,531 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypeClassic] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:55:58,671 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypeClassic] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:55:58,809 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypeLite] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:55:58,944 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypeLite] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:55:59,092 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypePremium] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:55:59,240 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypePremium] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:56:01,021 Total number of testcases : 4 
+2023-05-03 20:56:01,021 Number of testcases Passed : 0 
+2023-05-03 20:56:01,021 Number of testcases Failed : 4 
+2023-05-03 20:56:01,022 Number of testcases Skipped  : 0 
+2023-05-03 20:56:01,024 Mail sending toggel is set to false 
+2023-05-03 20:56:01,024 Mail sent : false 
+2023-05-03 20:56:01,024 ************************** Test Execution Finished ************************************ 
+2023-05-03 20:56:46,624 ************************** Test Execution Started ************************************ 
+2023-05-03 20:56:49,229 Subscription Page Test: Test started 
+2023-05-03 20:56:49,237 Subscription Page Test: Test started 
+2023-05-03 20:57:12,559 Subscription Page Test : Test Failed : LITE expected [LITE] but found [Verify Plan Type Lite] 
+2023-05-03 20:57:12,669 Subscription Page Test : Test Failed : LITE expected [LITE] but found [Verify Plan Type Lite] 
+2023-05-03 20:57:12,793 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypeClassic] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:57:12,914 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypeClassic] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:57:13,039 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypePremium] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:57:13,160 Subscription Page Test : Test Failed : 
+Cannot inject @Test annotated Method [validatePlanTypePremium] with [class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection 
+2023-05-03 20:57:14,389 Total number of testcases : 3 
+2023-05-03 20:57:14,389 Number of testcases Passed : 0 
+2023-05-03 20:57:14,389 Number of testcases Failed : 3 
+2023-05-03 20:57:14,389 Number of testcases Skipped  : 0 
+2023-05-03 20:57:14,390 Mail sending toggel is set to false 
+2023-05-03 20:57:14,390 Mail sent : false 
+2023-05-03 20:57:14,390 ************************** Test Execution Finished ************************************ 
+2023-05-03 20:58:51,969 ************************** Test Execution Started ************************************ 
+2023-05-03 20:58:54,655 Subscription Page Test: Test started 
+2023-05-03 20:58:54,665 Subscription Page Test: Test started 
+2023-05-03 20:59:18,212 Subscription Page Test : Test Failed : LITE expected [LITE] but found [Verify Plan Type Lite] 
+2023-05-03 20:59:18,414 Subscription Page Test : Test Failed : LITE expected [LITE] but found [Verify Plan Type Lite] 
+2023-05-03 20:59:19,654 Total number of testcases : 1 
+2023-05-03 20:59:19,654 Number of testcases Passed : 0 
+2023-05-03 20:59:19,654 Number of testcases Failed : 1 
+2023-05-03 20:59:19,654 Number of testcases Skipped  : 0 
+2023-05-03 20:59:19,656 Mail sending toggel is set to false 
+2023-05-03 20:59:19,656 Mail sent : false 
+2023-05-03 20:59:19,656 ************************** Test Execution Finished ************************************ 
+2023-05-03 21:00:40,939 ************************** Test Execution Started ************************************ 
+2023-05-03 21:00:43,619 Subscription Page Test: Test started 
+2023-05-03 21:00:43,628 Subscription Page Test: Test started 
+2023-05-03 21:01:09,223 Subscription Page Test : Test Passed 
+2023-05-03 21:01:09,456 Subscription Page Test : Test Passed 
+2023-05-03 21:01:10,548 Total number of testcases : 1 
+2023-05-03 21:01:10,548 Number of testcases Passed : 1 
+2023-05-03 21:01:10,548 Number of testcases Failed : 0 
+2023-05-03 21:01:10,548 Number of testcases Skipped  : 0 
+2023-05-03 21:01:10,549 Mail sending toggel is set to false 
+2023-05-03 21:01:10,549 Mail sent : false 
+2023-05-03 21:01:10,549 ************************** Test Execution Finished ************************************ 
+2023-05-03 21:24:00,530 ************************** Test Execution Started ************************************ 
+2023-05-03 21:24:03,752 Subscription Page Test: Test started 
+2023-05-03 21:24:03,759 Subscription Page Test: Test started 
+2023-05-03 21:24:14,038 Subscription Page Test : Test Failed : no such element: Unable to locate element: {"method":"css selector","selector":"#currency\-lite"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57733}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8008e7a3367baca9597e46d9b31e2c51
+*** Element info: {Using=id, value=currency-lite} 
+2023-05-03 21:24:14,140 Subscription Page Test : Test Failed : no such element: Unable to locate element: {"method":"css selector","selector":"#currency\-lite"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57733}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8008e7a3367baca9597e46d9b31e2c51
+*** Element info: {Using=id, value=currency-lite} 
+2023-05-03 21:24:14,142 Subscription Page Test: Test started 
+2023-05-03 21:24:14,144 Subscription Page Test: Test started 
+2023-05-03 21:24:38,232 Subscription Page Test : Test Passed 
+2023-05-03 21:24:38,345 Subscription Page Test : Test Passed 
+2023-05-03 21:24:39,580 Total number of testcases : 2 
+2023-05-03 21:24:39,580 Number of testcases Passed : 1 
+2023-05-03 21:24:39,580 Number of testcases Failed : 1 
+2023-05-03 21:24:39,580 Number of testcases Skipped  : 0 
+2023-05-03 21:24:39,582 Mail sending toggel is set to false 
+2023-05-03 21:24:39,582 Mail sent : false 
+2023-05-03 21:24:39,582 ************************** Test Execution Finished ************************************ 
+2023-05-03 21:26:42,455 ************************** Test Execution Started ************************************ 
+2023-05-03 21:26:45,419 Subscription Page Test: Test started 
+2023-05-03 21:26:45,424 Subscription Page Test: Test started 
+2023-05-03 21:29:49,935 ************************** Test Execution Started ************************************ 
+2023-05-03 21:29:52,665 Subscription Page Test: Test started 
+2023-05-03 21:29:52,674 Subscription Page Test: Test started 
+2023-05-03 21:30:02,958 Subscription Page Test : Test Failed : no such element: Unable to locate element: {"method":"css selector","selector":"#currency\-lite"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58084}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e372154c365b8428046688439526305b
+*** Element info: {Using=id, value=currency-lite} 
+2023-05-03 21:30:03,053 Subscription Page Test : Test Failed : no such element: Unable to locate element: {"method":"css selector","selector":"#currency\-lite"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58084}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e372154c365b8428046688439526305b
+*** Element info: {Using=id, value=currency-lite} 
+2023-05-03 21:30:03,054 Subscription Page Test: Test started 
+2023-05-03 21:30:03,056 Subscription Page Test: Test started 
+2023-05-03 21:30:34,176 Subscription Page Test : Test Passed 
+2023-05-03 21:30:34,283 Subscription Page Test : Test Passed 
+2023-05-03 21:30:35,435 Total number of testcases : 2 
+2023-05-03 21:30:35,436 Number of testcases Passed : 1 
+2023-05-03 21:30:35,436 Number of testcases Failed : 1 
+2023-05-03 21:30:35,436 Number of testcases Skipped  : 0 
+2023-05-03 21:30:35,438 Mail sending toggel is set to false 
+2023-05-03 21:30:35,438 Mail sent : false 
+2023-05-03 21:30:35,438 ************************** Test Execution Finished ************************************ 
+2023-05-03 21:34:40,267 ************************** Test Execution Started ************************************ 
+2023-05-03 21:34:43,265 Subscription Page Test: Test started 
+2023-05-03 21:34:43,272 Subscription Page Test: Test started 
+2023-05-03 21:34:53,552 Subscription Page Test : Test Failed : no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id="currency-lite"]"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58346}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 201fa2d554dccd4d879e039ccf4e6270
+*** Element info: {Using=xpath, value=//div[@id="currency-lite"]} 
+2023-05-03 21:34:53,650 Subscription Page Test : Test Failed : no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id="currency-lite"]"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58346}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 201fa2d554dccd4d879e039ccf4e6270
+*** Element info: {Using=xpath, value=//div[@id="currency-lite"]} 
+2023-05-03 21:34:53,652 Subscription Page Test: Test started 
+2023-05-03 21:34:53,654 Subscription Page Test: Test started 
+2023-05-03 21:35:22,279 Subscription Page Test : Test Passed 
+2023-05-03 21:35:22,428 Subscription Page Test : Test Passed 
+2023-05-03 21:35:23,552 Total number of testcases : 2 
+2023-05-03 21:35:23,552 Number of testcases Passed : 1 
+2023-05-03 21:35:23,552 Number of testcases Failed : 1 
+2023-05-03 21:35:23,552 Number of testcases Skipped  : 0 
+2023-05-03 21:35:23,554 Mail sending toggel is set to false 
+2023-05-03 21:35:23,554 Mail sent : false 
+2023-05-03 21:35:23,554 ************************** Test Execution Finished ************************************ 
+2023-05-03 21:37:51,314 ************************** Test Execution Started ************************************ 
+2023-05-03 21:37:54,201 Subscription Page Test: Test started 
+2023-05-03 21:37:54,256 Subscription Page Test: Test started 
+2023-05-03 21:38:04,457 Subscription Page Test : Test Failed : no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id="currency-lite"]"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58547}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9475251f5b1edb7795662a682e4ff998
+*** Element info: {Using=xpath, value=//div[@id="currency-lite"]} 
+2023-05-03 21:38:04,553 Subscription Page Test : Test Failed : no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id="currency-lite"]"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58547}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9475251f5b1edb7795662a682e4ff998
+*** Element info: {Using=xpath, value=//div[@id="currency-lite"]} 
+2023-05-03 21:38:04,554 Subscription Page Test: Test started 
+2023-05-03 21:38:04,556 Subscription Page Test: Test started 
+2023-05-03 21:38:27,245 Subscription Page Test : Test Passed 
+2023-05-03 21:38:27,400 Subscription Page Test : Test Passed 
+2023-05-03 21:38:28,519 Total number of testcases : 2 
+2023-05-03 21:38:28,519 Number of testcases Passed : 1 
+2023-05-03 21:38:28,519 Number of testcases Failed : 1 
+2023-05-03 21:38:28,519 Number of testcases Skipped  : 0 
+2023-05-03 21:38:28,521 Mail sending toggel is set to false 
+2023-05-03 21:38:28,521 Mail sent : false 
+2023-05-03 21:38:28,521 ************************** Test Execution Finished ************************************ 
+2023-05-03 21:45:59,407 ************************** Test Execution Started ************************************ 
+2023-05-03 21:46:02,325 Subscription Page Test: Test started 
+2023-05-03 21:46:02,330 Subscription Page Test: Test started 
+2023-05-03 21:46:12,708 Subscription Page Test : Test Failed : no such element: Unable to locate element: {"method":"css selector","selector":"#currency\-lite"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59051}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4d42ebb6c9097b84d1183bd6244739a9
+*** Element info: {Using=id, value=currency-lite} 
+2023-05-03 21:46:12,861 Subscription Page Test : Test Failed : no such element: Unable to locate element: {"method":"css selector","selector":"#currency\-lite"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59051}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4d42ebb6c9097b84d1183bd6244739a9
+*** Element info: {Using=id, value=currency-lite} 
+2023-05-03 21:46:12,864 Subscription Page Test: Test started 
+2023-05-03 21:46:12,866 Subscription Page Test: Test started 
+2023-05-03 21:46:40,245 Subscription Page Test : Test Passed 
+2023-05-03 21:46:40,364 Subscription Page Test : Test Passed 
+2023-05-03 21:46:41,582 Total number of testcases : 2 
+2023-05-03 21:46:41,583 Number of testcases Passed : 1 
+2023-05-03 21:46:41,583 Number of testcases Failed : 1 
+2023-05-03 21:46:41,583 Number of testcases Skipped  : 0 
+2023-05-03 21:46:41,585 Mail sending toggel is set to false 
+2023-05-03 21:46:41,585 Mail sent : false 
+2023-05-03 21:46:41,585 ************************** Test Execution Finished ************************************ 
+2023-05-03 21:59:40,527 ************************** Test Execution Started ************************************ 
+2023-05-03 21:59:44,030 Subscription Page Test: Test started 
+2023-05-03 21:59:44,038 Subscription Page Test: Test started 
+2023-05-03 22:00:09,556 Subscription Page Test : Test Failed : no such element: Unable to locate element: {"method":"css selector","selector":"#lite\-selection"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59643}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 34be4047f938cfa016cad4be5c2cf859
+*** Element info: {Using=id, value=lite-selection} 
+2023-05-03 22:00:09,650 Subscription Page Test : Test Failed : no such element: Unable to locate element: {"method":"css selector","selector":"#lite\-selection"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59643}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 34be4047f938cfa016cad4be5c2cf859
+*** Element info: {Using=id, value=lite-selection} 
+2023-05-03 22:00:09,653 Subscription Page Test: Test started 
+2023-05-03 22:00:09,654 Subscription Page Test: Test started 
+2023-05-03 22:00:33,169 Subscription Page Test : Test Passed 
+2023-05-03 22:00:33,306 Subscription Page Test : Test Passed 
+2023-05-03 22:00:34,720 Total number of testcases : 2 
+2023-05-03 22:00:34,720 Number of testcases Passed : 1 
+2023-05-03 22:00:34,720 Number of testcases Failed : 1 
+2023-05-03 22:00:34,720 Number of testcases Skipped  : 0 
+2023-05-03 22:00:34,723 Mail sending toggel is set to false 
+2023-05-03 22:00:34,723 Mail sent : false 
+2023-05-03 22:00:34,723 ************************** Test Execution Finished ************************************ 
+2023-05-03 22:07:19,707 ************************** Test Execution Started ************************************ 
+2023-05-03 22:07:25,656 Subscription Page Test: Test started 
+2023-05-03 22:07:25,665 Subscription Page Test: Test started 
+2023-05-03 22:07:36,013 Subscription Page Test : Test Failed : no such element: Unable to locate element: {"method":"css selector","selector":"#lite\-selection"}
+  (Session info: chrome=112.0.5615.139)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.139, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49894}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b4fd91c2818a90fc70205b8b00ca042c
+*** Element info: {Using=id, value=lite-selection} 
+2023-05-03 22:07:36,127 Subscription Page Test : Test Failed : no such element: Unable to locate element: {"method":"css selector","selector":"#lite\-selection"}
+  (Session info: chrome=112.0.5615.139)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.139, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49894}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b4fd91c2818a90fc70205b8b00ca042c
+*** Element info: {Using=id, value=lite-selection} 
+2023-05-03 22:07:36,129 Subscription Page Test: Test started 
+2023-05-03 22:07:36,130 Subscription Page Test: Test started 
+2023-05-03 22:08:03,906 Subscription Page Test : Test Passed 
+2023-05-03 22:08:04,028 Subscription Page Test : Test Passed 
+2023-05-03 22:08:05,301 Total number of testcases : 2 
+2023-05-03 22:08:05,302 Number of testcases Passed : 1 
+2023-05-03 22:08:05,302 Number of testcases Failed : 1 
+2023-05-03 22:08:05,302 Number of testcases Skipped  : 0 
+2023-05-03 22:08:05,305 Mail sending toggel is set to false 
+2023-05-03 22:08:05,305 Mail sent : false 
+2023-05-03 22:08:05,305 ************************** Test Execution Finished ************************************ 
+2023-05-03 22:21:57,999 ************************** Test Execution Started ************************************ 
+2023-05-03 22:22:03,028 Subscription Page Test: Test started 
+2023-05-03 22:22:03,037 Subscription Page Test: Test started 
+2023-05-03 22:22:13,380 Subscription Page Test : Test Failed : no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='price'][1]/b[1]"}
+  (Session info: chrome=112.0.5615.139)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.139, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61108}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b714ccac27c4e9d60a7fee23e11f0180
+*** Element info: {Using=xpath, value=//div[@class='price'][1]/b[1]} 
+2023-05-03 22:22:13,477 Subscription Page Test : Test Failed : no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='price'][1]/b[1]"}
+  (Session info: chrome=112.0.5615.139)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-E1APB05D', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.139, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\91880\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61108}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b714ccac27c4e9d60a7fee23e11f0180
+*** Element info: {Using=xpath, value=//div[@class='price'][1]/b[1]} 
+2023-05-03 22:22:13,479 Subscription Page Test: Test started 
+2023-05-03 22:22:13,482 Subscription Page Test: Test started 
+2023-05-03 22:22:38,906 Subscription Page Test : Test Passed 
+2023-05-03 22:22:39,017 Subscription Page Test : Test Passed 
+2023-05-03 22:22:40,266 Total number of testcases : 2 
+2023-05-03 22:22:40,267 Number of testcases Passed : 1 
+2023-05-03 22:22:40,267 Number of testcases Failed : 1 
+2023-05-03 22:22:40,267 Number of testcases Skipped  : 0 
+2023-05-03 22:22:40,269 Mail sending toggel is set to false 
+2023-05-03 22:22:40,270 Mail sent : false 
+2023-05-03 22:22:40,270 ************************** Test Execution Finished ************************************ 
+2023-05-03 22:27:02,249 ************************** Test Execution Started ************************************ 
+2023-05-03 22:27:04,846 Subscription Page Test: Test started 
+2023-05-03 22:27:04,854 Subscription Page Test: Test started 
+2023-05-03 22:27:15,125 Subscription Page Test : Test Failed : Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='price'][1]/b[1] (tried for 10 second(s) with 500 milliseconds interval) 
+2023-05-03 22:27:15,221 Subscription Page Test : Test Failed : Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='price'][1]/b[1] (tried for 10 second(s) with 500 milliseconds interval) 
+2023-05-03 22:27:15,222 Subscription Page Test: Test started 
+2023-05-03 22:27:15,225 Subscription Page Test: Test started 
+2023-05-03 22:27:38,108 Subscription Page Test : Test Passed 
+2023-05-03 22:27:38,221 Subscription Page Test : Test Passed 
+2023-05-03 22:27:39,435 Total number of testcases : 2 
+2023-05-03 22:27:39,435 Number of testcases Passed : 1 
+2023-05-03 22:27:39,435 Number of testcases Failed : 1 
+2023-05-03 22:27:39,435 Number of testcases Skipped  : 0 
+2023-05-03 22:27:39,437 Mail sending toggel is set to false 
+2023-05-03 22:27:39,437 Mail sent : false 
+2023-05-03 22:27:39,437 ************************** Test Execution Finished ************************************ 
+2023-05-03 22:29:32,428 ************************** Test Execution Started ************************************ 
+2023-05-03 22:29:35,128 Subscription Page Test: Test started 
+2023-05-03 22:29:35,136 Subscription Page Test: Test started 
+2023-05-03 22:29:35,241 Subscription Page Test : Test Passed 
+2023-05-03 22:29:35,338 Subscription Page Test : Test Passed 
+2023-05-03 22:29:35,339 Subscription Page Test: Test started 
+2023-05-03 22:29:35,340 Subscription Page Test: Test started 
+2023-05-03 22:29:58,304 Subscription Page Test : Test Passed 
+2023-05-03 22:29:58,423 Subscription Page Test : Test Passed 
+2023-05-03 22:29:59,763 Total number of testcases : 2 
+2023-05-03 22:29:59,763 Number of testcases Passed : 2 
+2023-05-03 22:29:59,763 Number of testcases Failed : 0 
+2023-05-03 22:29:59,763 Number of testcases Skipped  : 0 
+2023-05-03 22:29:59,764 Mail sending toggel is set to false 
+2023-05-03 22:29:59,764 Mail sent : false 
+2023-05-03 22:29:59,764 ************************** Test Execution Finished ************************************ 
+2023-05-03 22:32:49,057 ************************** Test Execution Started ************************************ 
+2023-05-03 22:32:51,711 Subscription Page Test: Test started 
+2023-05-03 22:32:51,717 Subscription Page Test: Test started 
+2023-05-03 22:32:51,839 Subscription Page Test : Test Passed 
+2023-05-03 22:32:51,935 Subscription Page Test : Test Passed 
+2023-05-03 22:32:51,937 Subscription Page Test: Test started 
+2023-05-03 22:32:51,939 Subscription Page Test: Test started 
+2023-05-03 22:33:14,883 Subscription Page Test : Test Passed 
+2023-05-03 22:33:14,978 Subscription Page Test : Test Passed 
+2023-05-03 22:33:16,068 Total number of testcases : 2 
+2023-05-03 22:33:16,068 Number of testcases Passed : 2 
+2023-05-03 22:33:16,068 Number of testcases Failed : 0 
+2023-05-03 22:33:16,068 Number of testcases Skipped  : 0 
+2023-05-03 22:33:16,069 Mail sending toggel is set to false 
+2023-05-03 22:33:16,069 Mail sent : false 
+2023-05-03 22:33:16,069 ************************** Test Execution Finished ************************************ 
+2023-05-03 22:35:10,021 ************************** Test Execution Started ************************************ 
+2023-05-03 22:35:13,105 Subscription Page Test: Test started 
+2023-05-03 22:35:13,166 Subscription Page Test: Test started 
+2023-05-03 22:35:37,470 Subscription Page Test : Test Passed 
+2023-05-03 22:35:37,665 Subscription Page Test : Test Passed 
+2023-05-03 22:35:37,667 Subscription Page Test: Test started 
+2023-05-03 22:35:37,671 Subscription Page Test: Test started 
+2023-05-03 22:35:37,848 Subscription Page Test : Test Passed 
+2023-05-03 22:35:37,990 Subscription Page Test : Test Passed 
+2023-05-03 22:35:39,039 Total number of testcases : 2 
+2023-05-03 22:35:39,039 Number of testcases Passed : 2 
+2023-05-03 22:35:39,039 Number of testcases Failed : 0 
+2023-05-03 22:35:39,039 Number of testcases Skipped  : 0 
+2023-05-03 22:35:39,041 Mail sending toggel is set to false 
+2023-05-03 22:35:39,041 Mail sent : false 
+2023-05-03 22:35:39,041 ************************** Test Execution Finished ************************************ 
+2023-05-03 22:38:48,081 ************************** Test Execution Started ************************************ 
+2023-05-03 22:38:50,659 Subscription Page Test: Test started 
+2023-05-03 22:38:50,664 Subscription Page Test: Test started 
+2023-05-03 22:39:17,553 Subscription Page Test : Test Passed 
+2023-05-03 22:39:17,679 Subscription Page Test : Test Passed 
+2023-05-03 22:39:17,682 Subscription Page Test: Test started 
+2023-05-03 22:39:17,685 Subscription Page Test: Test started 
+2023-05-03 22:39:17,806 Subscription Page Test : Test Passed 
+2023-05-03 22:39:17,917 Subscription Page Test : Test Passed 
+2023-05-03 22:39:19,081 Total number of testcases : 2 
+2023-05-03 22:39:19,081 Number of testcases Passed : 2 
+2023-05-03 22:39:19,081 Number of testcases Failed : 0 
+2023-05-03 22:39:19,081 Number of testcases Skipped  : 0 
+2023-05-03 22:39:19,083 Mail sending toggel is set to false 
+2023-05-03 22:39:19,083 Mail sent : false 
+2023-05-03 22:39:19,083 ************************** Test Execution Finished ************************************ 
+2023-05-03 22:40:45,924 ************************** Test Execution Started ************************************ 
+2023-05-03 22:40:48,640 Subscription Page Test: Test started 
+2023-05-03 22:40:48,647 Subscription Page Test: Test started 
+2023-05-03 22:41:13,854 Subscription Page Test : Test Passed 
+2023-05-03 22:41:13,969 Subscription Page Test : Test Passed 
+2023-05-03 22:41:13,972 Subscription Page Test: Test started 
+2023-05-03 22:41:13,975 Subscription Page Test: Test started 
+2023-05-03 22:41:14,080 Subscription Page Test : Test Passed 
+2023-05-03 22:41:14,201 Subscription Page Test : Test Passed 
+2023-05-03 22:41:15,473 Total number of testcases : 2 
+2023-05-03 22:41:15,473 Number of testcases Passed : 2 
+2023-05-03 22:41:15,473 Number of testcases Failed : 0 
+2023-05-03 22:41:15,473 Number of testcases Skipped  : 0 
+2023-05-03 22:41:15,474 Mail sending toggel is set to false 
+2023-05-03 22:41:15,474 Mail sent : false 
+2023-05-03 22:41:15,474 ************************** Test Execution Finished ************************************ 
+2023-05-03 23:12:31,792 ************************** Test Execution Started ************************************ 
+2023-05-03 23:12:34,589 Subscription Page Test: Test started 
+2023-05-03 23:12:34,598 Subscription Page Test: Test started 
+2023-05-03 23:12:59,047 Subscription Page Test : Test Passed 
+2023-05-03 23:12:59,151 Subscription Page Test : Test Passed 
+2023-05-03 23:12:59,153 Subscription Page Test: Test started 
+2023-05-03 23:12:59,155 Subscription Page Test: Test started 
+2023-05-03 23:13:20,835 Subscription Page Test : Test Failed : Verify Price for Plan Type Classic expected [CLASSIC] but found [60] 
+2023-05-03 23:13:20,953 Subscription Page Test : Test Failed : Verify Price for Plan Type Classic expected [CLASSIC] but found [60] 
+2023-05-03 23:13:22,430 Total number of testcases : 3 
+2023-05-03 23:13:22,431 Number of testcases Passed : 1 
+2023-05-03 23:13:22,431 Number of testcases Failed : 2 
+2023-05-03 23:13:22,431 Number of testcases Skipped  : 0 
+2023-05-03 23:13:22,432 Mail sending toggel is set to false 
+2023-05-03 23:13:22,433 Mail sent : false 
+2023-05-03 23:13:22,433 ************************** Test Execution Finished ************************************ 
+2023-05-03 23:14:55,004 ************************** Test Execution Started ************************************ 
+2023-05-03 23:14:58,897 Total number of testcases : 3 
+2023-05-03 23:14:58,897 Number of testcases Passed : 0 
+2023-05-03 23:14:58,897 Number of testcases Failed : 3 
+2023-05-03 23:14:58,897 Number of testcases Skipped  : 0 
+2023-05-03 23:14:58,898 Mail sending toggel is set to false 
+2023-05-03 23:14:58,898 Mail sent : false 
+2023-05-03 23:14:58,898 ************************** Test Execution Finished ************************************ 
+2023-05-03 23:16:09,491 ************************** Test Execution Started ************************************ 
+2023-05-03 23:17:51,201 ************************** Test Execution Started ************************************ 
+2023-05-03 23:17:53,801 Subscription Page Test: Test started 
+2023-05-03 23:17:53,808 Subscription Page Test: Test started 
+2023-05-03 23:18:21,557 Subscription Page Test : Test Passed 
+2023-05-03 23:18:21,689 Subscription Page Test : Test Passed 
+2023-05-03 23:18:21,690 Subscription Page Test: Test started 
+2023-05-03 23:18:21,691 Subscription Page Test: Test started 
+2023-05-03 23:18:43,668 Subscription Page Test : Test Failed : Verify Price for Plan Type Classic expected [CLASSIC] but found [60] 
+2023-05-03 23:18:43,800 Subscription Page Test : Test Failed : Verify Price for Plan Type Classic expected [CLASSIC] but found [60] 
+2023-05-03 23:18:43,801 Subscription Page Test: Test started 
+2023-05-03 23:18:43,803 Subscription Page Test: Test started 
+2023-05-03 23:19:05,546 Subscription Page Test : Test Failed : Verify Currency of a Country expected [BHD/month] but found [SAR] 
+2023-05-03 23:19:05,685 Subscription Page Test : Test Failed : Verify Currency of a Country expected [BHD/month] but found [SAR] 
+2023-05-03 23:19:06,974 Total number of testcases : 3 
+2023-05-03 23:19:06,974 Number of testcases Passed : 1 
+2023-05-03 23:19:06,975 Number of testcases Failed : 2 
+2023-05-03 23:19:06,975 Number of testcases Skipped  : 0 
+2023-05-03 23:19:06,977 Mail sending toggel is set to false 
+2023-05-03 23:19:06,977 Mail sent : false 
+2023-05-03 23:19:06,977 ************************** Test Execution Finished ************************************ 
+2023-05-03 23:20:42,464 ************************** Test Execution Started ************************************ 
+2023-05-03 23:20:45,420 Subscription Page Test: Test started 
+2023-05-03 23:20:45,427 Subscription Page Test: Test started 
+2023-05-03 23:21:08,809 Subscription Page Test : Test Passed 
+2023-05-03 23:21:08,906 Subscription Page Test : Test Passed 
+2023-05-03 23:21:08,907 Subscription Page Test: Test started 
+2023-05-03 23:21:08,908 Subscription Page Test: Test started 
+2023-05-03 23:21:30,621 Subscription Page Test : Test Failed : Verify Price for Plan Type Classic expected [CLASSIC] but found [3] 
+2023-05-03 23:21:30,748 Subscription Page Test : Test Failed : Verify Price for Plan Type Classic expected [CLASSIC] but found [3] 
+2023-05-03 23:21:30,749 Subscription Page Test: Test started 
+2023-05-03 23:21:30,750 Subscription Page Test: Test started 
+2023-05-03 23:21:52,365 Subscription Page Test : Test Passed 
+2023-05-03 23:21:52,477 Subscription Page Test : Test Passed 
+2023-05-03 23:21:53,911 Total number of testcases : 3 
+2023-05-03 23:21:53,911 Number of testcases Passed : 2 
+2023-05-03 23:21:53,911 Number of testcases Failed : 1 
+2023-05-03 23:21:53,911 Number of testcases Skipped  : 0 
+2023-05-03 23:21:53,912 Mail sending toggel is set to false 
+2023-05-03 23:21:53,912 Mail sent : false 
+2023-05-03 23:21:53,912 ************************** Test Execution Finished ************************************ 
+2023-05-03 23:28:32,091 ************************** Test Execution Started ************************************ 
+2023-05-03 23:28:34,617 Subscription Page Test: Test started 
+2023-05-03 23:28:34,624 Subscription Page Test: Test started 
+2023-05-03 23:28:59,742 Subscription Page Test : Test Passed 
+2023-05-03 23:28:59,847 Subscription Page Test : Test Passed 
+2023-05-03 23:28:59,849 Subscription Page Test: Test started 
+2023-05-03 23:28:59,849 Subscription Page Test: Test started 
+2023-05-03 23:29:21,655 Subscription Page Test : Test Passed 
+2023-05-03 23:29:21,777 Subscription Page Test : Test Passed 
+2023-05-03 23:29:21,779 Subscription Page Test: Test started 
+2023-05-03 23:29:21,781 Subscription Page Test: Test started 
+2023-05-03 23:29:43,370 Subscription Page Test : Test Passed 
+2023-05-03 23:29:43,481 Subscription Page Test : Test Passed 
+2023-05-03 23:29:44,820 Total number of testcases : 3 
+2023-05-03 23:29:44,820 Number of testcases Passed : 3 
+2023-05-03 23:29:44,820 Number of testcases Failed : 0 
+2023-05-03 23:29:44,820 Number of testcases Skipped  : 0 
+2023-05-03 23:29:44,822 Mail sending toggel is set to false 
+2023-05-03 23:29:44,822 Mail sent : false 
+2023-05-03 23:29:44,822 ************************** Test Execution Finished ************************************ 
+2023-05-03 23:33:59,784 ************************** Test Execution Started ************************************ 
+2023-05-03 23:34:02,633 Subscription Page Test: Test started 
+2023-05-03 23:34:02,638 Subscription Page Test: Test started 
+2023-05-03 23:34:28,897 Subscription Page Test : Test Passed 
+2023-05-03 23:34:29,002 Subscription Page Test : Test Passed 
+2023-05-03 23:34:29,004 Subscription Page Test: Test started 
+2023-05-03 23:34:29,006 Subscription Page Test: Test started 
+2023-05-03 23:34:50,753 Subscription Page Test : Test Passed 
+2023-05-03 23:34:50,879 Subscription Page Test : Test Passed 
+2023-05-03 23:34:50,880 Subscription Page Test: Test started 
+2023-05-03 23:34:50,882 Subscription Page Test: Test started 
+2023-05-03 23:34:51,019 Subscription Page Test : Test Passed 
+2023-05-03 23:34:51,124 Subscription Page Test : Test Passed 
+2023-05-03 23:34:52,545 Total number of testcases : 3 
+2023-05-03 23:34:52,545 Number of testcases Passed : 3 
+2023-05-03 23:34:52,545 Number of testcases Failed : 0 
+2023-05-03 23:34:52,545 Number of testcases Skipped  : 0 
+2023-05-03 23:34:52,547 Mail sending toggel is set to false 
+2023-05-03 23:34:52,548 Mail sent : false 
+2023-05-03 23:34:52,548 ************************** Test Execution Finished ************************************ 
+2023-05-03 23:45:08,941 ************************** Test Execution Started ************************************ 
+2023-05-03 23:45:11,719 validatePlanType: Test started 
+2023-05-03 23:45:11,854 validatePlanType: Test started 
+2023-05-03 23:45:36,382 validatePlanType : Test Passed 
+2023-05-03 23:45:36,516 validatePlanType : Test Passed 
+2023-05-03 23:45:36,620 validatePlanPrice: Test started 
+2023-05-03 23:45:36,621 validatePlanPrice: Test started 
+2023-05-03 23:45:36,660 validatePlanPrice : Test Passed 
+2023-05-03 23:45:36,772 validatePlanPrice : Test Passed 
+2023-05-03 23:45:36,872 validateCurrencyOfCountry: Test started 
+2023-05-03 23:45:36,874 validateCurrencyOfCountry: Test started 
+2023-05-03 23:45:36,923 validateCurrencyOfCountry : Test Passed 
+2023-05-03 23:45:37,024 validateCurrencyOfCountry : Test Passed 
+2023-05-03 23:45:38,445 Total number of testcases : 3 
+2023-05-03 23:45:38,445 Number of testcases Passed : 3 
+2023-05-03 23:45:38,445 Number of testcases Failed : 0 
+2023-05-03 23:45:38,445 Number of testcases Skipped  : 0 
+2023-05-03 23:45:38,446 Mail sending toggel is set to false 
+2023-05-03 23:45:38,446 Mail sent : false 
+2023-05-03 23:45:38,446 ************************** Test Execution Finished ************************************ 

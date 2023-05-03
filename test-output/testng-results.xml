@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29010" started-at="2023-05-03T18:15:08Z" finished-at="2023-05-03T18:15:37Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29010" started-at="2023-05-03T18:15:08Z" finished-at="2023-05-03T18:15:37Z">
+      <class name="example.example.tests.SubscriptionPageTest">
+        <test-method status="PASS" signature="globalSetup()[pri:0, instance:example.example.tests.SubscriptionPageTest@598067a5]" name="globalSetup" is-config="true" duration-ms="81" started-at="2023-05-03T18:15:08Z" finished-at="2023-05-03T18:15:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- globalSetup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:example.example.tests.SubscriptionPageTest@598067a5]" name="setup" is-config="true" duration-ms="2750" started-at="2023-05-03T18:15:08Z" finished-at="2023-05-03T18:15:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validatePlanType(java.lang.String, java.lang.String)[pri:1, instance:example.example.tests.SubscriptionPageTest@598067a5]" name="validatePlanType" duration-ms="24662" started-at="2023-05-03T18:15:11Z" description="Verify Plan Type on country basis" finished-at="2023-05-03T18:15:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bh-en]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CLASSIC]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePlanType -->
+        <test-method status="PASS" signature="validatePlanPrice(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:example.example.tests.SubscriptionPageTest@598067a5]" name="validatePlanPrice" duration-ms="40" started-at="2023-05-03T18:15:36Z" description="Verify Price for Plan Type on country basis" finished-at="2023-05-03T18:15:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bh-en]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CLASSIC]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePlanPrice -->
+        <test-method status="PASS" signature="validateCurrencyOfCountry(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:example.example.tests.SubscriptionPageTest@598067a5]" name="validateCurrencyOfCountry" duration-ms="51" started-at="2023-05-03T18:15:36Z" description="Verify Currency of a Country" finished-at="2023-05-03T18:15:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bh-en]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CLASSIC]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[BHD/month]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCurrencyOfCountry -->
+        <test-method status="PASS" signature="wrapUp()[pri:0, instance:example.example.tests.SubscriptionPageTest@598067a5]" name="wrapUp" is-config="true" duration-ms="835" started-at="2023-05-03T18:15:37Z" finished-at="2023-05-03T18:15:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+        <test-method status="PASS" signature="wrapAllUp(org.testng.ITestContext)[pri:0, instance:example.example.tests.SubscriptionPageTest@598067a5]" name="wrapAllUp" is-config="true" duration-ms="2" started-at="2023-05-03T18:15:38Z" finished-at="2023-05-03T18:15:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@70e0accd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapAllUp -->
+      </class> <!-- example.example.tests.SubscriptionPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

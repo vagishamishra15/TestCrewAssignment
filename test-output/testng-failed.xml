@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="example.example.listeners.ReportListener"/>
+    <listener class-name="example.example.listeners.LogListener"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="country" value="bh-en"/>
+    <parameter name="planType" value="CLASSIC"/>
+    <parameter name="price" value="3"/>
+    <parameter name="currency" value="BHD/month"/>
+    <classes>
+      <class name="example.example.tests.SubscriptionPageTest">
+        <methods>
+          <include name="validatePlanPrice" invocation-numbers="0"/>
+          <include name="setup"/>
+          <include name="wrapAllUp"/>
+          <include name="globalSetup"/>
+          <include name="wrapUp"/>
+        </methods>
+      </class> <!-- example.example.tests.SubscriptionPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

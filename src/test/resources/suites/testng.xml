@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="example.example.listeners.ReportListener"></listener>
+		<listener class-name="example.example.listeners.LogListener"></listener>
+	</listeners>
+	<test  name="Test">
+		<parameter name="country" value="bh-en" />
+		<parameter name="planType" value="CLASSIC" />
+		<parameter name="price" value="3" />
+		<parameter name="currency" value="BHD/month" />
+		<classes>
+			<class name="example.example.tests.SubscriptionPageTest">	
+			<methods>
+            <include name="validatePlanType"></include>
+            <include name="validatePlanPrice"></include>
+            <include name="validateCurrencyOfCountry"></include>
+            </methods>
+            </class>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
