@@ -35,5 +35,3 @@ Key Points:
 2. Always use `PageinstancesFactory.getInstance(type)` to get the instance of particular Page Object. (Of course you can use `new` but it's better use a single approach across the framework.
 
 ---
-
->For any query or suggestions please do comment or mail @ diggavibharathish@gmail.com 
